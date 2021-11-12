@@ -24,7 +24,7 @@ func notaParaConceito(n float64) string {
 
 }
 
-func main() {
+func main() { // chamando o função
 	notaParaConceito(10)
 	notaParaConceito(9)
 	notaParaConceito(8)
