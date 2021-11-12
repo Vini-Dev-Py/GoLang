@@ -24,7 +24,7 @@ func notaParaConceito(n float64) string {
 
 }
 
-func main() {
+func main() { // comentario teste
 	notaParaConceito(10)
 	notaParaConceito(9)
 	notaParaConceito(8)
